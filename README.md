@@ -1,6 +1,9 @@
-# Getting Started with Create React App and Redux
+# Shopping Cart App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This project is an exercise for using ReactJS, TailwindCSS Redux to simulate a shpping cart functionality in a website. You can add items to your shop from home screen and from the cart page, you can add to existing items, remove from existing items or remove items from the cart. You can also see total price of your cart and with "discount30" and "discount60" discount codes, you can by order have 30% or 60% off on your total price.
+
+_Note: Because of some problems with slider package I used, when you click on items that is not the left most item in Homepage, the slider slides to left for 1 item._
+
 
 ## Available Scripts
 
